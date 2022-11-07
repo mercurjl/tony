@@ -1,0 +1,51 @@
+body {
+  height: 90vh;
+  width: 90vw;
+}
+
+h1 {
+  color: black;
+  margin: 0;
+}
+
+.fart {
+  color: burlywood;
+}
+
+.blue {
+  background-color: blue;
+}
+
+#poop {
+  background-color: bisque;
+}
+
+header {
+  height: 400px;
+  background-color: lightgray;
+}
+
+.left {
+  width: 400px;
+  height: 800px;
+  background-color: green;
+}
+
+.right-top {
+  width: 300px;
+  height: 500px;
+  background-color: orange;
+}
+.right-bottom {
+  width: 300px;
+  height: 500px;
+  background-color: coral;
+}
+.content {
+  display: flex;
+}
+
+.right {
+  display: flex;
+  flex-direction: row;
+}
